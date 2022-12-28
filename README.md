@@ -25,3 +25,12 @@ to attract customers.
 parottas most , Hotel can ensure that customers know that there 
 are different types of dishes made using parotta [As most dishes 
 made using parotta have less sales].
+
+### Working :
+- Analyses are done using Microsoft Excel.
+- ```Pivot table``` is used for aggregation.
+- ```VLOOKUP Function``` is used to lookup data from other spreadsheets.
+- Analyses are done in ```Workings.xlsx```
+
+### Presentation :
+- Presentation is shared as ```Presentation.pptx```
